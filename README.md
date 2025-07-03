@@ -19,26 +19,11 @@ A modern, responsive, and minimal developer portfolio built with **React.js**. T
 - ✅ Smooth scrolling and basic animations
 - ✅ Dark mode (optional)
 
-## 📁 Folder Structure
-
-react-portfolio/
-├── public/
-│ └── index.html
-├── src/
-│ ├── assets/ # Images, icons, logos
-│ ├── components/ # Reusable components (Navbar, Footer, etc.)
-│ ├── pages/ # Sections like Home, About, Projects, Contact
-│ ├── App.js
-│ └── index.js
-├── .gitignore
-├── package.json
-├── README.md
-└── tailwind.config.js (if using Tailwind)
 
 
 ## 📷 Screenshots
 
-> _(Add screenshots or a live demo GIF here)_
+> ![image](https://github.com/user-attachments/assets/b476894d-cb47-4203-8014-0f56572185a3)
 
 ## 🛠️ Getting Started
 
